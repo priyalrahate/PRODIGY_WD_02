@@ -1,0 +1,70 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: rgb(84, 83, 83);
+}
+h1{
+   text-align:center;
+   padding:20px;
+   font-size: 80px;
+   color: rgb(232, 211, 211);
+}
+.watch{
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 10%;
+}
+
+.container{
+ text-align: center;
+ height:100px;
+ width:500px;
+ margin:80px;
+ padding:100px;
+ background-color: rgb(69, 72, 69);
+ border-radius: 5%;
+ margin-left:400px;
+}
+
+.ID{
+    text-align: center;
+}
+
+#display{
+    font-size: 80px;
+}
+
+span{
+    font-size: 50px;
+}
+
+.text{
+    font-size: 20px;
+}
+#start{
+    background-color: rgb(61, 183, 67);
+}
+
+#stop{
+    background-color: brown;;
+}
+
+#reset{
+    background-color: rgb(51, 76, 202);
+}
+
+#start:hover{
+    background-color: rgb(42, 215, 8);
+}
+
+#stop:hover{
+    background-color: rgb(212, 8, 8);
+}
+
+#reset:hover{
+    background-color: rgb(30, 30, 169);
+}
